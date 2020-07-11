@@ -3,7 +3,7 @@
 import os
 import re
 import optparse
-import subproces
+import subprocess
 
 def linuxMacChanger(interface, newMac):
 
